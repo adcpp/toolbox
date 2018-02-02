@@ -1,0 +1,25 @@
+.flex-container{
+    display: flex;
+    height: 500px;
+    background: gray;
+    flex-wrap: wrap-reverse;
+    flex-direction: column-reverse;
+    align-content: space-between;
+    justify-content: center;
+
+
+}
+.flex-item{
+    width: 20%;
+    height: 100px;
+    border-radius: 25%
+}
+.verde{
+    background: green;
+}
+.amarelo{
+    background: yellow;
+}
+.vermelho{
+    background: red;
+}
